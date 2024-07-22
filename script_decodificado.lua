@@ -23,7 +23,7 @@ if lrm_load_script then
   end 
 end
 
-local c="local c = "https://raw.githubusercontent.com/leo1234657652/v7/main/v7.txt"
+local c = "https://raw.githubusercontent.com/leo1234657652/v7/main/v7.txt"
 is_from_loader={Mode="fastload"}
 local d=0.03
 
